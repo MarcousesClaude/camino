@@ -1,0 +1,23 @@
+{
+  "profiles": [
+    {
+      "id": "u1",
+      "name": "Marco",
+      "color": "#2B5D8A"
+    },
+    {
+      "id": "u2",
+      "name": "Pascale",
+      "color": "#B3471E"
+    }
+  ],
+  "weeklyGoalXp": 6000,
+  "firebase": {
+    "apiKey": "AIzaSyDbEGIr23h-AZKH86O5lmheC-eHMtrAyOw",
+    "authDomain": "camino-spanisch.firebaseapp.com",
+    "projectId": "camino-spanisch",
+    "storageBucket": "camino-spanisch.firebasestorage.app",
+    "messagingSenderId": "610472767057",
+    "appId": "1:610472767057:web:19219dfbaa0169794c1270"
+  }
+}

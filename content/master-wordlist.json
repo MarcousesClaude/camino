@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 1,
+  "note": "Alle bisher verwendeten Wörter. Neue Packs werden dagegen auf Duplikate geprüft.",
+  "words": [
+    {
+      "id": "w0001",
+      "es": "el hombre",
+      "lesson": 1
+    },
+    {
+      "id": "w0002",
+      "es": "la mujer",
+      "lesson": 1
+    },
+    {
+      "id": "w0003",
+      "es": "el niño",
+      "lesson": 1
+    },
+    {
+      "id": "w0004",
+      "es": "la niña",
+      "lesson": 1
+    },
+    {
+      "id": "w0005",
+      "es": "la persona",
+      "lesson": 1
+    },
+    {
+      "id": "w0006",
+      "es": "el amigo",
+      "lesson": 1
+    },
+    {
+      "id": "w0007",
+      "es": "la amiga",
+      "lesson": 1
+    },
+    {
+      "id": "w0008",
+      "es": "la gente",
+      "lesson": 1
+    },
+    {
+      "id": "w0009",
+      "es": "el señor",
+      "lesson": 1
+    },
+    {
+      "id": "w0010",
+      "es": "la señora",
+      "lesson": 1
+    },
+    {
+      "id": "w0011",
+      "es": "la familia",
+      "lesson": 1
+    },
+    {
+      "id": "w0012",
+      "es": "el padre",
+      "lesson": 1
+    },
+    {
+      "id": "w0013",
+      "es": "la madre",
+      "lesson": 1
+    },
+    {
+      "id": "w0014",
+      "es": "el hijo",
+      "lesson": 1
+    },
+    {
+      "id": "w0015",
+      "es": "la hija",
+      "lesson": 1
+    },
+    {
+      "id": "w0016",
+      "es": "el hermano",
+      "lesson": 1
+    },
+    {
+      "id": "w0017",
+      "es": "la hermana",
+      "lesson": 1
+    },
+    {
+      "id": "w0018",
+      "es": "el marido",
+      "lesson": 1
+    },
+    {
+      "id": "w0019",
+      "es": "el abuelo",
+      "lesson": 1
+    },
+    {
+      "id": "w0020",
+      "es": "la abuela",
+      "lesson": 1
+    },
+    {
+      "id": "w0021",
+      "es": "la casa",
+      "lesson": 1
+    },
+    {
+      "id": "w0022",
+      "es": "el piso",
+      "lesson": 1
+    },
+    {
+      "id": "w0023",
+      "es": "la habitación",
+      "lesson": 1
+    },
+    {
+      "id": "w0024",
+      "es": "la cocina",
+      "lesson": 1
+    },
+    {
+      "id": "w0025",
+      "es": "el baño",
+      "lesson": 1
+    },
+    {
+      "id": "w0026",
+      "es": "la cama",
+      "lesson": 1
+    },
+    {
+      "id": "w0027",
+      "es": "la mesa",
+      "lesson": 1
+    },
+    {
+      "id": "w0028",
+      "es": "la silla",
+      "lesson": 1
+    },
+    {
+      "id": "w0029",
+      "es": "la puerta",
+      "lesson": 1
+    },
+    {
+      "id": "w0030",
+      "es": "la ventana",
+      "lesson": 1
+    },
+    {
+      "id": "w0031",
+      "es": "la comida",
+      "lesson": 1
+    },
+    {
+      "id": "w0032",
+      "es": "el pan",
+      "lesson": 1
+    },
+    {
+      "id": "w0033",
+      "es": "la carne",
+      "lesson": 1
+    },
+    {
+      "id": "w0034",
+      "es": "el pescado",
+      "lesson": 1
+    },
+    {
+      "id": "w0035",
+      "es": "el huevo",
+      "lesson": 1
+    },
+    {
+      "id": "w0036",
+      "es": "el queso",
+      "lesson": 1
+    },
+    {
+      "id": "w0037",
+      "es": "la fruta",
+      "lesson": 1
+    },
+    {
+      "id": "w0038",
+      "es": "la patata",
+      "lesson": 1
+    },
+    {
+      "id": "w0039",
+      "es": "el arroz",
+      "lesson": 1
+    },
+    {
+      "id": "w0040",
+      "es": "el desayuno",
+      "lesson": 1
+    },
+    {
+      "id": "w0041",
+      "es": "el agua",
+      "lesson": 1
+    },
+    {
+      "id": "w0042",
+      "es": "el café",
+      "lesson": 1
+    },
+    {
+      "id": "w0043",
+      "es": "el té",
+      "lesson": 1
+    },
+    {
+      "id": "w0044",
+      "es": "la leche",
+      "lesson": 1
+    },
+    {
+      "id": "w0045",
+      "es": "el zumo",
+      "lesson": 1
+    },
+    {
+      "id": "w0046",
+      "es": "la cerveza",
+      "lesson": 1
+    },
+    {
+      "id": "w0047",
+      "es": "el vino",
+      "lesson": 1
+    },
+    {
+      "id": "w0048",
+      "es": "la cuenta",
+      "lesson": 1
+    },
+    {
+      "id": "w0049",
+      "es": "el vaso",
+      "lesson": 1
+    },
+    {
+      "id": "w0050",
+      "es": "el bar",
+      "lesson": 1
+    },
+    {
+      "id": "w0051",
+      "es": "la ciudad",
+      "lesson": 1
+    },
+    {
+      "id": "w0052",
+      "es": "la calle",
+      "lesson": 1
+    },
+    {
+      "id": "w0053",
+      "es": "la plaza",
+      "lesson": 1
+    },
+    {
+      "id": "w0054",
+      "es": "la tienda",
+      "lesson": 1
+    },
+    {
+      "id": "w0055",
+      "es": "el restaurante",
+      "lesson": 1
+    },
+    {
+      "id": "w0056",
+      "es": "el hotel",
+      "lesson": 1
+    },
+    {
+      "id": "w0057",
+      "es": "la estación",
+      "lesson": 1
+    },
+    {
+      "id": "w0058",
+      "es": "el aeropuerto",
+      "lesson": 1
+    },
+    {
+      "id": "w0059",
+      "es": "el banco",
+      "lesson": 1
+    },
+    {
+      "id": "w0060",
+      "es": "la playa",
+      "lesson": 1
+    },
+    {
+      "id": "w0061",
+      "es": "el día",
+      "lesson": 1
+    },
+    {
+      "id": "w0062",
+      "es": "la semana",
+      "lesson": 1
+    },
+    {
+      "id": "w0063",
+      "es": "el mes",
+      "lesson": 1
+    },
+    {
+      "id": "w0064",
+      "es": "el año",
+      "lesson": 1
+    },
+    {
+      "id": "w0065",
+      "es": "la hora",
+      "lesson": 1
+    },
+    {
+      "id": "w0066",
+      "es": "el minuto",
+      "lesson": 1
+    },
+    {
+      "id": "w0067",
+      "es": "la mañana",
+      "lesson": 1
+    },
+    {
+      "id": "w0068",
+      "es": "la tarde",
+      "lesson": 1
+    },
+    {
+      "id": "w0069",
+      "es": "la noche",
+      "lesson": 1
+    },
+    {
+      "id": "w0070",
+      "es": "el fin de semana",
+      "lesson": 1
+    },
+    {
+      "id": "w0071",
+      "es": "el móvil",
+      "lesson": 1
+    },
+    {
+      "id": "w0072",
+      "es": "el ordenador",
+      "lesson": 1
+    },
+    {
+      "id": "w0073",
+      "es": "la llave",
+      "lesson": 1
+    },
+    {
+      "id": "w0074",
+      "es": "el coche",
+      "lesson": 1
+    },
+    {
+      "id": "w0075",
+      "es": "el libro",
+      "lesson": 1
+    },
+    {
+      "id": "w0076",
+      "es": "el dinero",
+      "lesson": 1
+    },
+    {
+      "id": "w0077",
+      "es": "la bolsa",
+      "lesson": 1
+    },
+    {
+      "id": "w0078",
+      "es": "el problema",
+      "lesson": 1
+    },
+    {
+      "id": "w0079",
+      "es": "la mano",
+      "lesson": 1
+    },
+    {
+      "id": "w0080",
+      "es": "la foto",
+      "lesson": 1
+    },
+    {
+      "id": "w0081",
+      "es": "hola",
+      "lesson": 1
+    },
+    {
+      "id": "w0082",
+      "es": "adiós",
+      "lesson": 1
+    },
+    {
+      "id": "w0083",
+      "es": "gracias",
+      "lesson": 1
+    },
+    {
+      "id": "w0084",
+      "es": "por favor",
+      "lesson": 1
+    },
+    {
+      "id": "w0085",
+      "es": "de nada",
+      "lesson": 1
+    },
+    {
+      "id": "w0086",
+      "es": "perdón",
+      "lesson": 1
+    },
+    {
+      "id": "w0087",
+      "es": "vale",
+      "lesson": 1
+    },
+    {
+      "id": "w0088",
+      "es": "sí",
+      "lesson": 1
+    },
+    {
+      "id": "w0089",
+      "es": "no",
+      "lesson": 1
+    },
+    {
+      "id": "w0090",
+      "es": "buenos días",
+      "lesson": 1
+    }
+  ]
+}

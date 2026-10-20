@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "milestones": [
+    {
+      "id": "M1",
+      "title": "Bis zur ersten Hütte",
+      "lessons": [
+        1,
+        15
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Bis zur zweiten Hütte",
+      "lessons": [
+        16,
+        30
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Bis zum Gipfel",
+      "lessons": [
+        31,
+        45
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "S1",
+      "title": "Etappe 1",
+      "lessons": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "Etappe 2",
+      "lessons": [
+        6,
+        10
+      ]
+    },
+    {
+      "id": "S3",
+      "title": "Etappe 3",
+      "lessons": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": "S4",
+      "title": "Etappe 4",
+      "lessons": [
+        16,
+        20
+      ]
+    },
+    {
+      "id": "S5",
+      "title": "Etappe 5",
+      "lessons": [
+        21,
+        25
+      ]
+    },
+    {
+      "id": "S6",
+      "title": "Etappe 6",
+      "lessons": [
+        26,
+        30
+      ]
+    },
+    {
+      "id": "S7",
+      "title": "Etappe 7",
+      "lessons": [
+        31,
+        35
+      ]
+    },
+    {
+      "id": "S8",
+      "title": "Etappe 8",
+      "lessons": [
+        36,
+        40
+      ]
+    },
+    {
+      "id": "S9",
+      "title": "Etappe 9",
+      "lessons": [
+        41,
+        45
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "n": 1,
+      "id": "L01",
+      "title": "Nomen: Genus, Artikel, Plural",
+      "cefr": "A1",
+      "pack": "lessons/L01.json",
+      "version": 1
+    },
+    {
+      "n": 2,
+      "id": "L02",
+      "title": "Subjektpronomen und ser",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 3,
+      "id": "L03",
+      "title": "Präsens: -ar-Verben",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 4,
+      "id": "L04",
+      "title": "Präsens: -er/-ir, Verneinung, Fragen",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 5,
+      "id": "L05",
+      "title": "estar und hay",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 6,
+      "id": "L06",
+      "title": "Adjektive und Possessivbegleiter",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 7,
+      "id": "L07",
+      "title": "Stammwechselverben",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 8,
+      "id": "L08",
+      "title": "Unregelmässiges Präsens",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 9,
+      "id": "L09",
+      "title": "gustar und indirekte Objektpronomen",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 10,
+      "id": "L10",
+      "title": "Reflexive Verben",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 11,
+      "id": "L11",
+      "title": "Präpositionen und Demonstrativa",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 12,
+      "id": "L12",
+      "title": "ir a + Infinitiv, Modalverben",
+      "cefr": "A1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 13,
+      "id": "L13",
+      "title": "estar + Gerundium",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 14,
+      "id": "L14",
+      "title": "Pretérito perfecto",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 15,
+      "id": "L15",
+      "title": "Direkte Objektpronomen",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 16,
+      "id": "L16",
+      "title": "Indefinido: regelmässig",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 17,
+      "id": "L17",
+      "title": "Indefinido: unregelmässig",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 18,
+      "id": "L18",
+      "title": "Pretérito imperfecto",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 19,
+      "id": "L19",
+      "title": "Perfecto, indefinido, imperfecto",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 20,
+      "id": "L20",
+      "title": "Doppelte Objektpronomen",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 21,
+      "id": "L21",
+      "title": "Futuro simple",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 22,
+      "id": "L22",
+      "title": "Bejahter Imperativ",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 23,
+      "id": "L23",
+      "title": "Vergleich und Superlativ",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 24,
+      "id": "L24",
+      "title": "Verneinung, Indefinita, por/para",
+      "cefr": "A2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 25,
+      "id": "L25",
+      "title": "Condicional simple",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 26,
+      "id": "L26",
+      "title": "Pluscuamperfecto",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 27,
+      "id": "L27",
+      "title": "Subjuntivo: Formen",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 28,
+      "id": "L28",
+      "title": "Subjuntivo: Wünsche, Aufforderungen",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 29,
+      "id": "L29",
+      "title": "Subjuntivo: Gefühle, Bewertungen",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 30,
+      "id": "L30",
+      "title": "Verneinter Imperativ",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 31,
+      "id": "L31",
+      "title": "Meinung: creo que / no creo que",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 32,
+      "id": "L32",
+      "title": "Relativsätze",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 33,
+      "id": "L33",
+      "title": "Temporalsätze",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 34,
+      "id": "L34",
+      "title": "Final- und Kausalsätze",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 35,
+      "id": "L35",
+      "title": "Indirekte Rede I",
+      "cefr": "B1",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 36,
+      "id": "L36",
+      "title": "Imperfecto de subjuntivo",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 37,
+      "id": "L37",
+      "title": "Zeitenfolge",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 38,
+      "id": "L38",
+      "title": "Bedingungssätze (real, irreal)",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 39,
+      "id": "L39",
+      "title": "Perfecto de subjuntivo",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 40,
+      "id": "L40",
+      "title": "Irreale Vergangenheit",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 41,
+      "id": "L41",
+      "title": "Indirekte Rede II",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 42,
+      "id": "L42",
+      "title": "Konzessivsätze",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 43,
+      "id": "L43",
+      "title": "Passiv und unpersönliches se",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 44,
+      "id": "L44",
+      "title": "Futuro perfecto, Vermutungen",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    },
+    {
+      "n": 45,
+      "id": "L45",
+      "title": "Verbalperiphrasen, Konnektoren",
+      "cefr": "B2",
+      "pack": null,
+      "version": 1
+    }
+  ]
+}

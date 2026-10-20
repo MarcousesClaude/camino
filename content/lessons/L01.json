@@ -1,0 +1,2230 @@
+{
+  "schemaVersion": 1,
+  "lessonId": "L01",
+  "title": "Nomen: Genus, Artikel, Plural",
+  "cefr": "A1",
+  "grammar": {
+    "intro": "Jedes spanische Nomen ist entweder männlich oder weiblich. Darum lernst du jedes Nomen zusammen mit seinem Artikel.\n\n**el** = der/das (männlich), **la** = die/das (weiblich). Unbestimmt heisst es **un** (männlich) und **una** (weiblich).\n\nFaustregel: Wörter auf -o sind meist männlich (**el libro**), Wörter auf -a meist weiblich (**la casa**). Es gibt Ausnahmen, zum Beispiel **el día**, **el problema**, **la mano**, **la foto**.\n\nMehrzahl: nach einem Vokal **-s** (casa → casas), nach einem Konsonanten **-es** (ciudad → ciudades). Die Artikel werden zu **los** und **las**, unbestimmt zu **unos** und **unas** (einige).",
+    "recap": "Kurz wiederholt:\n\n**el / un** männlich, **la / una** weiblich. Mehrzahl: **los / las**, **unos / unas**.\n\nVokal + **-s**, Konsonant + **-es**. Bei -ión fällt der Akzent weg (**habitación → habitaciones**), aus z wird c (**arroz → arroces**).\n\nAusnahmen merken: **el día**, **el problema**, **la mano**, **la foto**. **el agua** ist weiblich, bekommt aber el wegen des betonten a.",
+    "exercises": [
+      {
+        "id": "L01-G01",
+        "type": "type_de_es",
+        "prompt": "die Häuser",
+        "answer": "las casas",
+        "accept": [],
+        "explain": "Nach einem Vokal: -s anhängen. la wird zu las."
+      },
+      {
+        "id": "L01-G02",
+        "type": "type_de_es",
+        "prompt": "ein Tag",
+        "answer": "un día",
+        "accept": [],
+        "explain": "día ist männlich, obwohl es auf -a endet."
+      },
+      {
+        "id": "L01-G03",
+        "type": "type_de_es",
+        "prompt": "die Probleme",
+        "answer": "los problemas",
+        "accept": [],
+        "explain": "problema ist männlich (wie el tema, el sistema)."
+      },
+      {
+        "id": "L01-G04",
+        "type": "type_de_es",
+        "prompt": "eine Hand",
+        "answer": "una mano",
+        "accept": [],
+        "explain": "mano ist weiblich, obwohl es auf -o endet."
+      },
+      {
+        "id": "L01-G05",
+        "type": "type_de_es",
+        "prompt": "die Städte",
+        "answer": "las ciudades",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es anhängen."
+      },
+      {
+        "id": "L01-G06",
+        "type": "type_de_es",
+        "prompt": "die Zimmer",
+        "answer": "las habitaciones",
+        "accept": [],
+        "explain": "-ión wird zu -iones, der Akzent fällt weg."
+      },
+      {
+        "id": "L01-G07",
+        "type": "type_de_es",
+        "prompt": "ein Problem",
+        "answer": "un problema",
+        "accept": [],
+        "explain": "problema ist männlich: un problema."
+      },
+      {
+        "id": "L01-G08",
+        "type": "type_de_es",
+        "prompt": "die Monate",
+        "answer": "los meses",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es anhängen."
+      },
+      {
+        "id": "L01-G09",
+        "type": "type_de_es",
+        "prompt": "ein Hotel",
+        "answer": "un hotel",
+        "accept": [],
+        "explain": "hotel ist männlich: un hotel."
+      },
+      {
+        "id": "L01-G10",
+        "type": "type_de_es",
+        "prompt": "die Hände",
+        "answer": "las manos",
+        "accept": [],
+        "explain": "mano bleibt auch in der Mehrzahl weiblich."
+      },
+      {
+        "id": "L01-G11",
+        "type": "type_de_es",
+        "prompt": "einige Bücher",
+        "answer": "unos libros",
+        "accept": [],
+        "explain": "unos / unas = einige."
+      },
+      {
+        "id": "L01-G12",
+        "type": "type_de_es",
+        "prompt": "die Fotos",
+        "answer": "las fotos",
+        "accept": [],
+        "explain": "foto ist weiblich (Kurzform von la fotografía)."
+      },
+      {
+        "id": "L01-G13",
+        "type": "type_de_es",
+        "prompt": "eine Strasse",
+        "answer": "una calle",
+        "accept": [],
+        "explain": "calle ist weiblich: una calle."
+      },
+      {
+        "id": "L01-G14",
+        "type": "type_de_es",
+        "prompt": "die Bars",
+        "answer": "los bares",
+        "accept": [],
+        "explain": "bar endet auf einen Konsonanten: bares."
+      },
+      {
+        "id": "L01-G15",
+        "type": "type_de_es",
+        "prompt": "ein Wein",
+        "answer": "un vino",
+        "accept": [],
+        "explain": "Männlich auf -o: un vino."
+      },
+      {
+        "id": "L01-G16",
+        "type": "type_de_es",
+        "prompt": "die Frauen",
+        "answer": "las mujeres",
+        "accept": [],
+        "explain": "mujer endet auf einen Konsonanten: mujeres."
+      },
+      {
+        "id": "L01-G17",
+        "type": "type_de_es",
+        "prompt": "die Tage",
+        "answer": "los días",
+        "accept": [],
+        "explain": "día ist männlich: los días."
+      },
+      {
+        "id": "L01-G18",
+        "type": "type_de_es",
+        "prompt": "eine Stunde",
+        "answer": "una hora",
+        "accept": [],
+        "explain": "Weiblich auf -a: una hora."
+      },
+      {
+        "id": "L01-G19",
+        "type": "type_de_es",
+        "prompt": "die Jahre",
+        "answer": "los años",
+        "accept": [],
+        "explain": "Männlich auf -o: los años. Achtung ñ."
+      },
+      {
+        "id": "L01-G20",
+        "type": "type_de_es",
+        "prompt": "einige Freundinnen",
+        "answer": "unas amigas",
+        "accept": [],
+        "explain": "unas = einige (weiblich)."
+      },
+      {
+        "id": "L01-G21",
+        "type": "type_de_es",
+        "prompt": "das Wasser",
+        "answer": "el agua",
+        "accept": [],
+        "explain": "agua ist weiblich, bekommt aber el wegen des betonten a am Anfang."
+      },
+      {
+        "id": "L01-G22",
+        "type": "type_de_es",
+        "prompt": "die Bahnhöfe",
+        "answer": "las estaciones",
+        "accept": [],
+        "explain": "-ión wird zu -iones, der Akzent fällt weg."
+      }
+    ],
+    "testExercises": [
+      {
+        "id": "L01-T01",
+        "type": "type_de_es",
+        "prompt": "die Kinder (allgemein)",
+        "answer": "los niños",
+        "accept": [
+          "los hijos"
+        ],
+        "explain": "Gemischte Gruppe: männliche Form."
+      },
+      {
+        "id": "L01-T02",
+        "type": "type_de_es",
+        "prompt": "die Brüder",
+        "answer": "los hermanos",
+        "accept": [],
+        "explain": "los hermanos heisst auch Geschwister."
+      },
+      {
+        "id": "L01-T03",
+        "type": "type_de_es",
+        "prompt": "die Schlüssel (Mehrzahl)",
+        "answer": "las llaves",
+        "accept": [],
+        "explain": "Nach einem Vokal: -s."
+      },
+      {
+        "id": "L01-T04",
+        "type": "type_de_es",
+        "prompt": "die Autos",
+        "answer": "los coches",
+        "accept": [],
+        "explain": "Nach einem Vokal: -s."
+      },
+      {
+        "id": "L01-T05",
+        "type": "type_de_es",
+        "prompt": "die Handys",
+        "answer": "los móviles",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es."
+      },
+      {
+        "id": "L01-T06",
+        "type": "type_de_es",
+        "prompt": "die Computer (Mehrzahl)",
+        "answer": "los ordenadores",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es."
+      },
+      {
+        "id": "L01-T07",
+        "type": "type_de_es",
+        "prompt": "eine Rechnung",
+        "answer": "una cuenta",
+        "accept": [],
+        "explain": "Weiblich auf -a."
+      },
+      {
+        "id": "L01-T08",
+        "type": "type_de_es",
+        "prompt": "die Säfte",
+        "answer": "los zumos",
+        "accept": [],
+        "explain": "Männlich auf -o."
+      },
+      {
+        "id": "L01-T09",
+        "type": "type_de_es",
+        "prompt": "ein Wasser",
+        "answer": "un agua",
+        "accept": [],
+        "explain": "Vor betontem a: un statt una, obwohl agua weiblich ist."
+      },
+      {
+        "id": "L01-T10",
+        "type": "type_de_es",
+        "prompt": "die Tische",
+        "answer": "las mesas",
+        "accept": [],
+        "explain": "mesa ist weiblich."
+      },
+      {
+        "id": "L01-T11",
+        "type": "type_de_es",
+        "prompt": "die Stühle",
+        "answer": "las sillas",
+        "accept": [],
+        "explain": "silla ist weiblich."
+      },
+      {
+        "id": "L01-T12",
+        "type": "type_de_es",
+        "prompt": "eine Tür",
+        "answer": "una puerta",
+        "accept": [],
+        "explain": "Weiblich auf -a."
+      },
+      {
+        "id": "L01-T13",
+        "type": "type_de_es",
+        "prompt": "die Strände",
+        "answer": "las playas",
+        "accept": [],
+        "explain": "playa ist weiblich."
+      },
+      {
+        "id": "L01-T14",
+        "type": "type_de_es",
+        "prompt": "die Minuten",
+        "answer": "los minutos",
+        "accept": [],
+        "explain": "minuto ist männlich."
+      },
+      {
+        "id": "L01-T15",
+        "type": "type_de_es",
+        "prompt": "die Nächte",
+        "answer": "las noches",
+        "accept": [],
+        "explain": "noche ist weiblich."
+      },
+      {
+        "id": "L01-T16",
+        "type": "type_de_es",
+        "prompt": "ein Monat",
+        "answer": "un mes",
+        "accept": [],
+        "explain": "mes ist männlich."
+      },
+      {
+        "id": "L01-T17",
+        "type": "type_de_es",
+        "prompt": "die Biere",
+        "answer": "las cervezas",
+        "accept": [],
+        "explain": "cerveza ist weiblich."
+      },
+      {
+        "id": "L01-T18",
+        "type": "type_de_es",
+        "prompt": "die Kaffees",
+        "answer": "los cafés",
+        "accept": [],
+        "explain": "Nach einem Vokal: -s."
+      },
+      {
+        "id": "L01-T19",
+        "type": "type_de_es",
+        "prompt": "die Herren",
+        "answer": "los señores",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es."
+      },
+      {
+        "id": "L01-T20",
+        "type": "type_de_es",
+        "prompt": "die Damen",
+        "answer": "las señoras",
+        "accept": [],
+        "explain": "Weiblich auf -a: las señoras."
+      },
+      {
+        "id": "L01-T21",
+        "type": "type_de_es",
+        "prompt": "die Flughäfen",
+        "answer": "los aeropuertos",
+        "accept": [],
+        "explain": "Männlich auf -o."
+      },
+      {
+        "id": "L01-T22",
+        "type": "type_de_es",
+        "prompt": "die Brote",
+        "answer": "los panes",
+        "accept": [],
+        "explain": "Nach einem Konsonanten: -es."
+      },
+      {
+        "id": "L01-T23",
+        "type": "type_de_es",
+        "prompt": "die Eier",
+        "answer": "los huevos",
+        "accept": [],
+        "explain": "Männlich auf -o."
+      },
+      {
+        "id": "L01-T24",
+        "type": "type_de_es",
+        "prompt": "die Kartoffeln",
+        "answer": "las patatas",
+        "accept": [],
+        "explain": "In Spanien: la patata."
+      },
+      {
+        "id": "L01-T25",
+        "type": "type_de_es",
+        "prompt": "eine Bar",
+        "answer": "un bar",
+        "accept": [],
+        "explain": "bar ist männlich: un bar."
+      },
+      {
+        "id": "L01-T26",
+        "type": "type_de_es",
+        "prompt": "die Leute",
+        "answer": "la gente",
+        "accept": [],
+        "explain": "gente ist auf Spanisch Einzahl."
+      },
+      {
+        "id": "L01-T27",
+        "type": "type_de_es",
+        "prompt": "die Wochenenden",
+        "answer": "los fines de semana",
+        "accept": [],
+        "explain": "Nur fin ändert sich: fines."
+      },
+      {
+        "id": "L01-T28",
+        "type": "type_de_es",
+        "prompt": "einige Probleme",
+        "answer": "unos problemas",
+        "accept": [],
+        "explain": "problema ist männlich: unos problemas."
+      },
+      {
+        "id": "L01-T29",
+        "type": "type_de_es",
+        "prompt": "eine Person",
+        "answer": "una persona",
+        "accept": [],
+        "explain": "persona ist immer weiblich."
+      },
+      {
+        "id": "L01-T30",
+        "type": "type_de_es",
+        "prompt": "die Läden",
+        "answer": "las tiendas",
+        "accept": [],
+        "explain": "tienda ist weiblich."
+      },
+      {
+        "id": "L01-T31",
+        "type": "type_de_es",
+        "prompt": "die Tees",
+        "answer": "los tés",
+        "accept": [],
+        "explain": "té bekommt in der Mehrzahl -s."
+      },
+      {
+        "id": "L01-T32",
+        "type": "type_de_es",
+        "prompt": "einige Fotos",
+        "answer": "unas fotos",
+        "accept": [],
+        "explain": "foto ist weiblich: unas fotos."
+      }
+    ]
+  },
+  "levels": [
+    {
+      "level": 1,
+      "theme": "Menschen",
+      "words": [
+        "w0001",
+        "w0002",
+        "w0003",
+        "w0004",
+        "w0005",
+        "w0006",
+        "w0007",
+        "w0008",
+        "w0009",
+        "w0010"
+      ]
+    },
+    {
+      "level": 2,
+      "theme": "Familie",
+      "words": [
+        "w0011",
+        "w0012",
+        "w0013",
+        "w0014",
+        "w0015",
+        "w0016",
+        "w0017",
+        "w0018",
+        "w0019",
+        "w0020"
+      ]
+    },
+    {
+      "level": 3,
+      "theme": "Wohnung",
+      "words": [
+        "w0021",
+        "w0022",
+        "w0023",
+        "w0024",
+        "w0025",
+        "w0026",
+        "w0027",
+        "w0028",
+        "w0029",
+        "w0030"
+      ]
+    },
+    {
+      "level": 4,
+      "theme": "Essen",
+      "words": [
+        "w0031",
+        "w0032",
+        "w0033",
+        "w0034",
+        "w0035",
+        "w0036",
+        "w0037",
+        "w0038",
+        "w0039",
+        "w0040"
+      ]
+    },
+    {
+      "level": 5,
+      "theme": "Getränke und Bar",
+      "words": [
+        "w0041",
+        "w0042",
+        "w0043",
+        "w0044",
+        "w0045",
+        "w0046",
+        "w0047",
+        "w0048",
+        "w0049",
+        "w0050"
+      ]
+    },
+    {
+      "level": 6,
+      "theme": "Stadt und Orte",
+      "words": [
+        "w0051",
+        "w0052",
+        "w0053",
+        "w0054",
+        "w0055",
+        "w0056",
+        "w0057",
+        "w0058",
+        "w0059",
+        "w0060"
+      ]
+    },
+    {
+      "level": 7,
+      "theme": "Zeit",
+      "words": [
+        "w0061",
+        "w0062",
+        "w0063",
+        "w0064",
+        "w0065",
+        "w0066",
+        "w0067",
+        "w0068",
+        "w0069",
+        "w0070"
+      ]
+    },
+    {
+      "level": 8,
+      "theme": "Alltagsdinge",
+      "words": [
+        "w0071",
+        "w0072",
+        "w0073",
+        "w0074",
+        "w0075",
+        "w0076",
+        "w0077",
+        "w0078",
+        "w0079",
+        "w0080"
+      ]
+    },
+    {
+      "level": 9,
+      "theme": "Höflichkeit und Grundwörter",
+      "words": [
+        "w0081",
+        "w0082",
+        "w0083",
+        "w0084",
+        "w0085",
+        "w0086",
+        "w0087",
+        "w0088",
+        "w0089",
+        "w0090"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "id": "w0001",
+      "es": "el hombre",
+      "de": "der Mann",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los hombres",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El hombre trabaja en un banco.",
+        "de": "Der Mann arbeitet in einer Bank."
+      }
+    },
+    {
+      "id": "w0002",
+      "es": "la mujer",
+      "de": "die Frau",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las mujeres",
+      "hintDe": "(auch: Ehefrau)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Ehefrau"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Mi mujer es de Zúrich.",
+        "de": "Meine Frau ist aus Zürich."
+      }
+    },
+    {
+      "id": "w0003",
+      "es": "el niño",
+      "de": "der Junge",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los niños",
+      "hintDe": "(auch: das Kind)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Kind"
+      ],
+      "pattern": null,
+      "note": "los niños = die Kinder (auch gemischte Gruppe)",
+      "example": {
+        "es": "El niño come pan.",
+        "de": "Der Junge isst Brot."
+      }
+    },
+    {
+      "id": "w0004",
+      "es": "la niña",
+      "de": "das Mädchen",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las niñas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La niña tiene seis años.",
+        "de": "Das Mädchen ist sechs Jahre alt."
+      }
+    },
+    {
+      "id": "w0005",
+      "es": "la persona",
+      "de": "die Person",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las personas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Mensch"
+      ],
+      "pattern": null,
+      "note": "Immer feminin, auch wenn ein Mann gemeint ist.",
+      "example": {
+        "es": "Es una persona muy simpática.",
+        "de": "Das ist eine sehr sympathische Person."
+      }
+    },
+    {
+      "id": "w0006",
+      "es": "el amigo",
+      "de": "der Freund",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los amigos",
+      "hintDe": "(Kollege, nicht Partner)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "los amigos = Freunde (auch gemischte Gruppe)",
+      "example": {
+        "es": "Mi amigo vive en Madrid.",
+        "de": "Mein Freund wohnt in Madrid."
+      }
+    },
+    {
+      "id": "w0007",
+      "es": "la amiga",
+      "de": "die Freundin",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las amigas",
+      "hintDe": "(Kollegin, nicht Partnerin)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Mi amiga habla alemán.",
+        "de": "Meine Freundin spricht Deutsch."
+      }
+    },
+    {
+      "id": "w0008",
+      "es": "la gente",
+      "de": "die Leute",
+      "pos": "noun",
+      "gender": "f",
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "la gente ist Einzahl: La gente es simpática.",
+      "example": {
+        "es": "La gente aquí es muy amable.",
+        "de": "Die Leute hier sind sehr freundlich."
+      }
+    },
+    {
+      "id": "w0009",
+      "es": "el señor",
+      "de": "der Herr",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los señores",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El señor García es mi profesor.",
+        "de": "Herr García ist mein Lehrer."
+      }
+    },
+    {
+      "id": "w0010",
+      "es": "la señora",
+      "de": "die Dame",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las señoras",
+      "hintDe": "(Anrede: Frau …)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Frau"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La señora López vive aquí.",
+        "de": "Frau López wohnt hier."
+      }
+    },
+    {
+      "id": "w0011",
+      "es": "la familia",
+      "de": "die Familie",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las familias",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Mi familia vive en Suiza.",
+        "de": "Meine Familie lebt in der Schweiz."
+      }
+    },
+    {
+      "id": "w0012",
+      "es": "el padre",
+      "de": "der Vater",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los padres",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "los padres = die Eltern",
+      "example": {
+        "es": "Mi padre se llama Juan.",
+        "de": "Mein Vater heisst Juan."
+      }
+    },
+    {
+      "id": "w0013",
+      "es": "la madre",
+      "de": "die Mutter",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las madres",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Mi madre cocina muy bien.",
+        "de": "Meine Mutter kocht sehr gut."
+      }
+    },
+    {
+      "id": "w0014",
+      "es": "el hijo",
+      "de": "der Sohn",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los hijos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "los hijos = die Kinder (Söhne und Töchter)",
+      "example": {
+        "es": "Tenemos un hijo.",
+        "de": "Wir haben einen Sohn."
+      }
+    },
+    {
+      "id": "w0015",
+      "es": "la hija",
+      "de": "die Tochter",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las hijas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Su hija estudia en Barcelona.",
+        "de": "Ihre Tochter studiert in Barcelona."
+      }
+    },
+    {
+      "id": "w0016",
+      "es": "el hermano",
+      "de": "der Bruder",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los hermanos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "los hermanos = die Geschwister",
+      "example": {
+        "es": "Mi hermano es médico.",
+        "de": "Mein Bruder ist Arzt."
+      }
+    },
+    {
+      "id": "w0017",
+      "es": "la hermana",
+      "de": "die Schwester",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las hermanas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Tengo una hermana.",
+        "de": "Ich habe eine Schwester."
+      }
+    },
+    {
+      "id": "w0018",
+      "es": "el marido",
+      "de": "der Ehemann",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los maridos",
+      "hintDe": null,
+      "acceptEs": [
+        "el esposo"
+      ],
+      "acceptDe": [
+        "Mann"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Su marido es de Sevilla.",
+        "de": "Ihr Mann ist aus Sevilla."
+      }
+    },
+    {
+      "id": "w0019",
+      "es": "el abuelo",
+      "de": "der Grossvater",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los abuelos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Opa"
+      ],
+      "pattern": null,
+      "note": "los abuelos = die Grosseltern",
+      "example": {
+        "es": "Mi abuelo tiene ochenta años.",
+        "de": "Mein Grossvater ist achtzig Jahre alt."
+      }
+    },
+    {
+      "id": "w0020",
+      "es": "la abuela",
+      "de": "die Grossmutter",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las abuelas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Oma"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La abuela vive con nosotros.",
+        "de": "Die Grossmutter wohnt bei uns."
+      }
+    },
+    {
+      "id": "w0021",
+      "es": "la casa",
+      "de": "das Haus",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las casas",
+      "hintDe": "(auch: Zuhause)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Zuhause"
+      ],
+      "pattern": null,
+      "note": "en casa = zu Hause",
+      "example": {
+        "es": "Estoy en casa.",
+        "de": "Ich bin zu Hause."
+      }
+    },
+    {
+      "id": "w0022",
+      "es": "el piso",
+      "de": "die Wohnung",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los pisos",
+      "hintDe": null,
+      "acceptEs": [
+        "el apartamento"
+      ],
+      "acceptDe": [
+        "Stockwerk"
+      ],
+      "pattern": null,
+      "note": "In Spanien üblich; el piso heisst auch Stockwerk.",
+      "example": {
+        "es": "Nuestro piso es pequeño.",
+        "de": "Unsere Wohnung ist klein."
+      }
+    },
+    {
+      "id": "w0023",
+      "es": "la habitación",
+      "de": "das Zimmer",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las habitaciones",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Mehrzahl ohne Akzent: habitaciones.",
+      "example": {
+        "es": "La habitación tiene una ventana.",
+        "de": "Das Zimmer hat ein Fenster."
+      }
+    },
+    {
+      "id": "w0024",
+      "es": "la cocina",
+      "de": "die Küche",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las cocinas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La cocina es muy grande.",
+        "de": "Die Küche ist sehr gross."
+      }
+    },
+    {
+      "id": "w0025",
+      "es": "el baño",
+      "de": "das Bad",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los baños",
+      "hintDe": "(Badezimmer)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Badezimmer",
+        "Toilette",
+        "WC"
+      ],
+      "pattern": null,
+      "note": "¿Dónde está el baño? fragt man auch nach der Toilette.",
+      "example": {
+        "es": "¿Dónde está el baño?",
+        "de": "Wo ist das Bad?"
+      }
+    },
+    {
+      "id": "w0026",
+      "es": "la cama",
+      "de": "das Bett",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las camas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La cama es muy cómoda.",
+        "de": "Das Bett ist sehr bequem."
+      }
+    },
+    {
+      "id": "w0027",
+      "es": "la mesa",
+      "de": "der Tisch",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las mesas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El libro está en la mesa.",
+        "de": "Das Buch liegt auf dem Tisch."
+      }
+    },
+    {
+      "id": "w0028",
+      "es": "la silla",
+      "de": "der Stuhl",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las sillas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Hay cuatro sillas en la cocina.",
+        "de": "In der Küche gibt es vier Stühle."
+      }
+    },
+    {
+      "id": "w0029",
+      "es": "la puerta",
+      "de": "die Tür",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las puertas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La puerta está abierta.",
+        "de": "Die Tür ist offen."
+      }
+    },
+    {
+      "id": "w0030",
+      "es": "la ventana",
+      "de": "das Fenster",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las ventanas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Abre la ventana, por favor.",
+        "de": "Öffne bitte das Fenster."
+      }
+    },
+    {
+      "id": "w0031",
+      "es": "la comida",
+      "de": "das Essen",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las comidas",
+      "hintDe": "(auch: Mittagessen)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Mittagessen"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La comida está muy buena.",
+        "de": "Das Essen ist sehr gut."
+      }
+    },
+    {
+      "id": "w0032",
+      "es": "el pan",
+      "de": "das Brot",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los panes",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Compro pan todos los días.",
+        "de": "Ich kaufe jeden Tag Brot."
+      }
+    },
+    {
+      "id": "w0033",
+      "es": "la carne",
+      "de": "das Fleisch",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las carnes",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "No como carne.",
+        "de": "Ich esse kein Fleisch."
+      }
+    },
+    {
+      "id": "w0034",
+      "es": "el pescado",
+      "de": "der Fisch",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los pescados",
+      "hintDe": "(als Essen)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Ein lebender Fisch ist el pez.",
+      "example": {
+        "es": "Me gusta el pescado.",
+        "de": "Ich mag Fisch."
+      }
+    },
+    {
+      "id": "w0035",
+      "es": "el huevo",
+      "de": "das Ei",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los huevos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Quiero un huevo.",
+        "de": "Ich möchte ein Ei."
+      }
+    },
+    {
+      "id": "w0036",
+      "es": "el queso",
+      "de": "der Käse",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los quesos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El queso suizo es famoso.",
+        "de": "Der Schweizer Käse ist berühmt."
+      }
+    },
+    {
+      "id": "w0037",
+      "es": "la fruta",
+      "de": "das Obst",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las frutas",
+      "hintDe": "(auch: die Frucht)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Frucht",
+        "Früchte"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Como fruta cada día.",
+        "de": "Ich esse jeden Tag Obst."
+      }
+    },
+    {
+      "id": "w0038",
+      "es": "la patata",
+      "de": "die Kartoffel",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las patatas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "In Spanien la patata, in Lateinamerika la papa.",
+      "example": {
+        "es": "Una tortilla de patatas, por favor.",
+        "de": "Eine Kartoffeltortilla, bitte."
+      }
+    },
+    {
+      "id": "w0039",
+      "es": "el arroz",
+      "de": "der Reis",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los arroces",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Mehrzahl: aus z wird c (arroces).",
+      "example": {
+        "es": "La paella lleva arroz.",
+        "de": "In die Paella kommt Reis."
+      }
+    },
+    {
+      "id": "w0040",
+      "es": "el desayuno",
+      "de": "das Frühstück",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los desayunos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El desayuno es a las ocho.",
+        "de": "Das Frühstück ist um acht."
+      }
+    },
+    {
+      "id": "w0041",
+      "es": "el agua",
+      "de": "das Wasser",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las aguas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Feminin, aber el agua wegen des betonten a am Anfang: el agua fría.",
+      "example": {
+        "es": "Un agua sin gas, por favor.",
+        "de": "Ein stilles Wasser, bitte."
+      }
+    },
+    {
+      "id": "w0042",
+      "es": "el café",
+      "de": "der Kaffee",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los cafés",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Un café con leche, por favor.",
+        "de": "Einen Milchkaffee, bitte."
+      }
+    },
+    {
+      "id": "w0043",
+      "es": "el té",
+      "de": "der Tee",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los tés",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "té (Tee) mit Akzent, te (dich) ohne.",
+      "example": {
+        "es": "¿Quieres un té?",
+        "de": "Möchtest du einen Tee?"
+      }
+    },
+    {
+      "id": "w0044",
+      "es": "la leche",
+      "de": "die Milch",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las leches",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "No tengo leche.",
+        "de": "Ich habe keine Milch."
+      }
+    },
+    {
+      "id": "w0045",
+      "es": "el zumo",
+      "de": "der Saft",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los zumos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "In Spanien el zumo, in Lateinamerika el jugo.",
+      "example": {
+        "es": "Un zumo de naranja, por favor.",
+        "de": "Einen Orangensaft, bitte."
+      }
+    },
+    {
+      "id": "w0046",
+      "es": "la cerveza",
+      "de": "das Bier",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las cervezas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Dos cervezas, por favor.",
+        "de": "Zwei Bier, bitte."
+      }
+    },
+    {
+      "id": "w0047",
+      "es": "el vino",
+      "de": "der Wein",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los vinos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El vino tinto es de Rioja.",
+        "de": "Der Rotwein ist aus der Rioja."
+      }
+    },
+    {
+      "id": "w0048",
+      "es": "la cuenta",
+      "de": "die Rechnung",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las cuentas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La cuenta, por favor.",
+        "de": "Die Rechnung, bitte."
+      }
+    },
+    {
+      "id": "w0049",
+      "es": "el vaso",
+      "de": "das Glas",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los vasos",
+      "hintDe": "(Trinkglas)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Ein Weinglas ist la copa.",
+      "example": {
+        "es": "Un vaso de agua, por favor.",
+        "de": "Ein Glas Wasser, bitte."
+      }
+    },
+    {
+      "id": "w0050",
+      "es": "el bar",
+      "de": "die Bar",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los bares",
+      "hintDe": "(Café-Bar, Beiz)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Beiz",
+        "Kneipe"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Desayunamos en el bar.",
+        "de": "Wir frühstücken in der Bar."
+      }
+    },
+    {
+      "id": "w0051",
+      "es": "la ciudad",
+      "de": "die Stadt",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las ciudades",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Madrid es una ciudad grande.",
+        "de": "Madrid ist eine grosse Stadt."
+      }
+    },
+    {
+      "id": "w0052",
+      "es": "la calle",
+      "de": "die Strasse",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las calles",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Gasse"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Vivo en esta calle.",
+        "de": "Ich wohne in dieser Strasse."
+      }
+    },
+    {
+      "id": "w0053",
+      "es": "la plaza",
+      "de": "der Platz",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las plazas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La Plaza Mayor está en el centro.",
+        "de": "Die Plaza Mayor liegt im Zentrum."
+      }
+    },
+    {
+      "id": "w0054",
+      "es": "la tienda",
+      "de": "der Laden",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las tiendas",
+      "hintDe": "(das Geschäft)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Geschäft"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "La tienda abre a las diez.",
+        "de": "Der Laden öffnet um zehn."
+      }
+    },
+    {
+      "id": "w0055",
+      "es": "el restaurante",
+      "de": "das Restaurant",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los restaurantes",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Es un restaurante muy bueno.",
+        "de": "Es ist ein sehr gutes Restaurant."
+      }
+    },
+    {
+      "id": "w0056",
+      "es": "el hotel",
+      "de": "das Hotel",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los hoteles",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El hotel está cerca de la playa.",
+        "de": "Das Hotel liegt nahe am Strand."
+      }
+    },
+    {
+      "id": "w0057",
+      "es": "la estación",
+      "de": "der Bahnhof",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las estaciones",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Station"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "¿Dónde está la estación?",
+        "de": "Wo ist der Bahnhof?"
+      }
+    },
+    {
+      "id": "w0058",
+      "es": "el aeropuerto",
+      "de": "der Flughafen",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los aeropuertos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El aeropuerto está lejos.",
+        "de": "Der Flughafen ist weit weg."
+      }
+    },
+    {
+      "id": "w0059",
+      "es": "el banco",
+      "de": "die Bank",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los bancos",
+      "hintDe": "(Geldinstitut)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "el banco heisst auch Sitzbank.",
+      "example": {
+        "es": "El banco cierra a las dos.",
+        "de": "Die Bank schliesst um zwei."
+      }
+    },
+    {
+      "id": "w0060",
+      "es": "la playa",
+      "de": "der Strand",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las playas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Vamos a la playa.",
+        "de": "Wir gehen an den Strand."
+      }
+    },
+    {
+      "id": "w0061",
+      "es": "el día",
+      "de": "der Tag",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los días",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Maskulin, obwohl es auf -a endet.",
+      "example": {
+        "es": "Hoy es un buen día.",
+        "de": "Heute ist ein guter Tag."
+      }
+    },
+    {
+      "id": "w0062",
+      "es": "la semana",
+      "de": "die Woche",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las semanas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Trabajo cinco días a la semana.",
+        "de": "Ich arbeite fünf Tage pro Woche."
+      }
+    },
+    {
+      "id": "w0063",
+      "es": "el mes",
+      "de": "der Monat",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los meses",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "El mes que viene vamos a España.",
+        "de": "Nächsten Monat fahren wir nach Spanien."
+      }
+    },
+    {
+      "id": "w0064",
+      "es": "el año",
+      "de": "das Jahr",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los años",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Mit ñ: ano ohne Tilde bedeutet etwas ganz anderes.",
+      "example": {
+        "es": "Este año aprendemos español.",
+        "de": "Dieses Jahr lernen wir Spanisch."
+      }
+    },
+    {
+      "id": "w0065",
+      "es": "la hora",
+      "de": "die Stunde",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las horas",
+      "hintDe": "(auch: Uhrzeit)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Uhrzeit"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "¿Qué hora es?",
+        "de": "Wie spät ist es?"
+      }
+    },
+    {
+      "id": "w0066",
+      "es": "el minuto",
+      "de": "die Minute",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los minutos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Espera un minuto.",
+        "de": "Warte eine Minute."
+      }
+    },
+    {
+      "id": "w0067",
+      "es": "la mañana",
+      "de": "der Morgen",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las mañanas",
+      "hintDe": "(Vormittag)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Vormittag"
+      ],
+      "pattern": null,
+      "note": "mañana ohne Artikel heisst morgen.",
+      "example": {
+        "es": "Trabajo por la mañana.",
+        "de": "Ich arbeite am Vormittag."
+      }
+    },
+    {
+      "id": "w0068",
+      "es": "la tarde",
+      "de": "der Nachmittag",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las tardes",
+      "hintDe": "(bis ca. 21 Uhr auch: Abend)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Abend"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Por la tarde vamos al bar.",
+        "de": "Am Nachmittag gehen wir in die Bar."
+      }
+    },
+    {
+      "id": "w0069",
+      "es": "la noche",
+      "de": "die Nacht",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las noches",
+      "hintDe": "(auch: später Abend)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Abend"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Buenas noches.",
+        "de": "Gute Nacht."
+      }
+    },
+    {
+      "id": "w0070",
+      "es": "el fin de semana",
+      "de": "das Wochenende",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los fines de semana",
+      "hintDe": null,
+      "acceptEs": [
+        "el finde"
+      ],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Mehrzahl: nur fin ändert sich (los fines de semana).",
+      "example": {
+        "es": "El fin de semana descansamos.",
+        "de": "Am Wochenende ruhen wir uns aus."
+      }
+    },
+    {
+      "id": "w0071",
+      "es": "el móvil",
+      "de": "das Handy",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los móviles",
+      "hintDe": null,
+      "acceptEs": [
+        "el teléfono móvil"
+      ],
+      "acceptDe": [
+        "Mobiltelefon",
+        "Natel"
+      ],
+      "pattern": null,
+      "note": "In Lateinamerika: el celular.",
+      "example": {
+        "es": "No encuentro mi móvil.",
+        "de": "Ich finde mein Handy nicht."
+      }
+    },
+    {
+      "id": "w0072",
+      "es": "el ordenador",
+      "de": "der Computer",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los ordenadores",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "PC",
+        "Rechner"
+      ],
+      "pattern": null,
+      "note": "In Lateinamerika: la computadora.",
+      "example": {
+        "es": "Trabajo con el ordenador.",
+        "de": "Ich arbeite mit dem Computer."
+      }
+    },
+    {
+      "id": "w0073",
+      "es": "la llave",
+      "de": "der Schlüssel",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las llaves",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "¿Tienes la llave?",
+        "de": "Hast du den Schlüssel?"
+      }
+    },
+    {
+      "id": "w0074",
+      "es": "el coche",
+      "de": "das Auto",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los coches",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Wagen"
+      ],
+      "pattern": null,
+      "note": "In Lateinamerika meist el carro.",
+      "example": {
+        "es": "Vamos en coche.",
+        "de": "Wir fahren mit dem Auto."
+      }
+    },
+    {
+      "id": "w0075",
+      "es": "el libro",
+      "de": "das Buch",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los libros",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Leo un libro en español.",
+        "de": "Ich lese ein Buch auf Spanisch."
+      }
+    },
+    {
+      "id": "w0076",
+      "es": "el dinero",
+      "de": "das Geld",
+      "pos": "noun",
+      "gender": "m",
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "No tengo dinero.",
+        "de": "Ich habe kein Geld."
+      }
+    },
+    {
+      "id": "w0077",
+      "es": "la bolsa",
+      "de": "die Tüte",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las bolsas",
+      "hintDe": "(Einkaufstasche)",
+      "acceptEs": [],
+      "acceptDe": [
+        "Tasche",
+        "Einkaufstasche",
+        "Sack",
+        "Säckli"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "¿Quiere una bolsa?",
+        "de": "Möchten Sie eine Tüte?"
+      }
+    },
+    {
+      "id": "w0078",
+      "es": "el problema",
+      "de": "das Problem",
+      "pos": "noun",
+      "gender": "m",
+      "plural": "los problemas",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Maskulin, obwohl es auf -a endet (wie el tema, el sistema).",
+      "example": {
+        "es": "No hay problema.",
+        "de": "Kein Problem."
+      }
+    },
+    {
+      "id": "w0079",
+      "es": "la mano",
+      "de": "die Hand",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las manos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "Feminin, obwohl es auf -o endet.",
+      "example": {
+        "es": "Lávate las manos.",
+        "de": "Wasch dir die Hände."
+      }
+    },
+    {
+      "id": "w0080",
+      "es": "la foto",
+      "de": "das Foto",
+      "pos": "noun",
+      "gender": "f",
+      "plural": "las fotos",
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Bild"
+      ],
+      "pattern": null,
+      "note": "Feminin: Kurzform von la fotografía.",
+      "example": {
+        "es": "Mira esta foto.",
+        "de": "Schau dir dieses Foto an."
+      }
+    },
+    {
+      "id": "w0081",
+      "es": "hola",
+      "de": "hallo",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "Hoi",
+        "Grüezi",
+        "Sali"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Hola, ¿qué tal?",
+        "de": "Hallo, wie geht's?"
+      }
+    },
+    {
+      "id": "w0082",
+      "es": "adiós",
+      "de": "auf Wiedersehen",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [
+        "tschüss",
+        "ade",
+        "adieu"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Adiós, hasta mañana.",
+        "de": "Tschüss, bis morgen."
+      }
+    },
+    {
+      "id": "w0083",
+      "es": "gracias",
+      "de": "danke",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [
+        "muchas gracias"
+      ],
+      "acceptDe": [
+        "merci",
+        "danke schön",
+        "vielen Dank"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Muchas gracias por todo.",
+        "de": "Vielen Dank für alles."
+      }
+    },
+    {
+      "id": "w0084",
+      "es": "por favor",
+      "de": "bitte",
+      "pos": "phrase",
+      "gender": null,
+      "plural": null,
+      "hintDe": "(wenn man um etwas bittet)",
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Un café, por favor.",
+        "de": "Einen Kaffee, bitte."
+      }
+    },
+    {
+      "id": "w0085",
+      "es": "de nada",
+      "de": "gern geschehen",
+      "pos": "phrase",
+      "gender": null,
+      "plural": null,
+      "hintDe": "(Antwort auf danke)",
+      "acceptEs": [],
+      "acceptDe": [
+        "bitte",
+        "keine Ursache",
+        "gerne"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "—Gracias. —De nada.",
+        "de": "– Danke. – Gern geschehen."
+      }
+    },
+    {
+      "id": "w0086",
+      "es": "perdón",
+      "de": "Entschuldigung",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [
+        "perdona",
+        "perdone",
+        "disculpa",
+        "disculpe"
+      ],
+      "acceptDe": [
+        "Verzeihung",
+        "sorry",
+        "Pardon"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Perdón, ¿dónde está la estación?",
+        "de": "Entschuldigung, wo ist der Bahnhof?"
+      }
+    },
+    {
+      "id": "w0087",
+      "es": "vale",
+      "de": "okay",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": "(Zustimmung, typisch Spanien)",
+      "acceptEs": [
+        "de acuerdo"
+      ],
+      "acceptDe": [
+        "ok",
+        "einverstanden",
+        "in Ordnung",
+        "gut"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "—¿A las ocho? —Vale.",
+        "de": "– Um acht? – Okay."
+      }
+    },
+    {
+      "id": "w0088",
+      "es": "sí",
+      "de": "ja",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": "sí (ja) mit Akzent, si (wenn) ohne.",
+      "example": {
+        "es": "Sí, claro.",
+        "de": "Ja, klar."
+      }
+    },
+    {
+      "id": "w0089",
+      "es": "no",
+      "de": "nein",
+      "pos": "interj",
+      "gender": null,
+      "plural": null,
+      "hintDe": null,
+      "acceptEs": [],
+      "acceptDe": [],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "No, gracias.",
+        "de": "Nein, danke."
+      }
+    },
+    {
+      "id": "w0090",
+      "es": "buenos días",
+      "de": "guten Morgen",
+      "pos": "phrase",
+      "gender": null,
+      "plural": null,
+      "hintDe": "(Gruss bis zum Mittagessen)",
+      "acceptEs": [],
+      "acceptDe": [
+        "guten Tag"
+      ],
+      "pattern": null,
+      "note": null,
+      "example": {
+        "es": "Buenos días, señora López.",
+        "de": "Guten Morgen, Frau López."
+      }
+    }
+  ],
+  "sentences": []
+}
